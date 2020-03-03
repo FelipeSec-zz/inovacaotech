@@ -4,4 +4,4 @@ Esse repositorio serve o prop√≥sito de registrar e indexar os projetos da Inova√
 ## Aula 001
 1. Relembrando conceitos de C++ no enviroment ArduinoCC
 2. Arquivo Blink.ino
-3. third
+- #include<Servo.h>
